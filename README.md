@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Angad Suryavanshi</h1>
+<h1 align="center">Hello 﫡, I'm Angad Suryavanshi</h1>
 <h3 align="center">A 2nd Year Student from Thapar Institute of Engineering and Technology, Patiala</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angad2212&label=Profile%20views&color=0e75b6&style=flat" alt="angad2212" /> </p>
